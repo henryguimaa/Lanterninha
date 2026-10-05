@@ -6,7 +6,7 @@ As principais alterações foram:
 
 Fiz o botão principal funcionar para ligar e desligar a lanterna.
 2. Deixei o Modo Automático funcionando através do Switch.
-3. Adicionei **animações** para deixar as mudanças de estado mais bonitas.
+3. Adicionei animaçõe* para deixar as mudanças de estado mais bonitas.
 4. Mudei a identidade visual do aplicativo para preto, cinza e laranja.
 5. Adicionei a opção de tema claro e tema escuro.
 6. Melhorei o cabeçalho, colocando o nome do aplicativo, o status da lanterna e o botão de troca de tema.
