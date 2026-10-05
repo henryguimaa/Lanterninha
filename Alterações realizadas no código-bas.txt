@@ -1,0 +1,19 @@
+Alterações realizadas no código-base
+
+Usei o código que a professora passou como base e fui adicionando algumas funções e mudanças visuais para deixar o aplicativo mais completo.
+
+As principais alterações foram:
+
+Fiz o botão principal funcionar para ligar e desligar a lanterna.
+2. Deixei o Modo Automático funcionando através do Switch.
+3. Adicionei **animações** para deixar as mudanças de estado mais bonitas.
+4. Mudei a identidade visual do aplicativo para preto, cinza e laranja.
+5. Adicionei a opção de tema claro e tema escuro.
+6. Melhorei o cabeçalho, colocando o nome do aplicativo, o status da lanterna e o botão de troca de tema.
+7. Criei uma área mostrando o status, modo e nível da luz.
+8. Adicionei mensagens para informar quando a lanterna ou o Modo Automático são ativados ou desativados.
+9. Também organizei melhor algumas partes do código para facilitar a manutenção.
+
+Durante os testes, percebi que o tablet utilizado não possui flash físico. Por isso, em vez de controlar o flash do aparelho, deixei a lanterna funcionando como uma simulação visual, com as mudanças de cor, brilho, ícones e animações.
+
+No geral, mantive basicamente a mesma estrutura do código e apenas mudei algumas coisas para ficar "melhor" a visualização e mais bonito e interativo o aplicativo.
